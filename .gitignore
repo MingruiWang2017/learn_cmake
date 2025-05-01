@@ -1,0 +1,10 @@
+.vscode/
+*.o
+*.a
+*.so
+
+*.exe
+*.out
+main
+shared_boost
+static_boost

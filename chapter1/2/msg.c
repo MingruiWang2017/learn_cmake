@@ -1,0 +1,1 @@
+const char *msg = "你好，世界！";
